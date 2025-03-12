@@ -14,11 +14,11 @@ I am a recent graduate with a profound interest in technology and a dedication t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Monitoring & Security          | <a href="https://github.com/saglen/network-monitoring-tool">Network Monitoring Tool</a>|
-| Operating Systems(Linux & Windows) | <a href="https://google.com">Detection Lab</a>|
-| Cloud Security & Infrastructure         | SOC Automation Lab|
-| Programming and Scripting      | SOC Automation Lab|
-| Ethical Hacking & CyberOps                 | SOC Automation Lab|
-| Digital Forensics & Incident Response | SOC Automation Lab|
+| Operating Systems(Linux & Windows) | |
+| Cloud Security & Infrastructure         | |
+| Programming and Scripting      ||
+| Ethical Hacking & CyberOps                 | |
+| Digital Forensics & Incident Response | |
 
 ## Tools
 ### Network Security & Monitoring
