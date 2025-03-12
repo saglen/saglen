@@ -4,7 +4,7 @@ Hello, I'm SINDRE
 </a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent cybersecurity graduate with an interest in technology and a dedication to solving problems.
 
 ## Objective
 
