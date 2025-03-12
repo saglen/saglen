@@ -13,7 +13,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Monitoring & Security          | <a href="https://google.com">Detection Lab</a>|
+| Network Monitoring & Security          | <a href="https://github.com/saglen/network-monitoring-tool">Network Monitoring Tool</a>|
 | Operating Systems(Linux & Windows) | <a href="https://google.com">Detection Lab</a>|
 | Cloud Security & Infrastructure         | SOC Automation Lab|
 | Programming and Scripting      | SOC Automation Lab|
