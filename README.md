@@ -51,7 +51,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 </div>
 
 ## Projects
-- Network Monitoring Tool – Built with Python, MySQL, Flask, allowing real-time traffic monitoring.
+- [![Network Monitoring Tool](https://img.shields.io/badge/-Network_Monitoring_Tool-000?style=for-the-badge&logo=github)](https://github.com/saglen/network-monitoring-tool) – Built with Python, MySQL, Flask, allowing real-time traffic monitoring.
 - Automated Security Scripts – A set of scripts for network scanning, log parsing, and system auditing.
 - Digital Forensics Lab – Sample forensic investigations using Velociraptor, Autopsy, and Wireshark.
 - SIEM Log Analysis – Hands-on Splunk and ELK Stack implementation for log analysis.
